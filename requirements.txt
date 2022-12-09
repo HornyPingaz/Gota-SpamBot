@@ -1,2 +1,3 @@
 https://www.python.org/downloads/ --> download python and add to path
-selenium module, type "pip install selenium" in the command prompt after you download python
+selenium module, type "pip install selenium" in the command prompt 
+pyautogui module, type "pip install pyautogui" in the command prompt
